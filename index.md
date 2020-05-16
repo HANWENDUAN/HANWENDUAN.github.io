@@ -20,7 +20,11 @@ Relevant Coursework: [Intro JAVA Programming, Internet Applications, Software En
 
 2. Java (2 year),
 
-3. Mathematics (Machine learning related algorithms which cover advanced mathematics and liner algebra), Tensorflow, Keras.
+3. Mathematics (Machine learning related algorithms which cover advanced mathematics and liner algebra), 
+
+4. Tensorflow, 
+
+5. Keras.
 
 ## WORK EXPERIENCE
 
