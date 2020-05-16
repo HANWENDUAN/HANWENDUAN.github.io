@@ -1,5 +1,6 @@
 ## EDUCATION
-### The University of Sydney	Jul 2017 - Jul 2019
+### The University of Sydney	
+### Jul 2017 - Jul 2019
  
 Master of Information Technology & Information Technology Management 
  
